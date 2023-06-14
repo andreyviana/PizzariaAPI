@@ -1,7 +1,5 @@
 # PizzariaAPI
 
-API web simples sobre pizzaria usando o **REPL** ne memória local do computador usando Visual Studio Code
-
 para testar as opereções CRUD do programa: 
 1. Abra um novo terminal e digite ``dotnet run`` para inicializar a API que está rodando no domínio **https://localhost:7000**
 2. Abra um novo terminal e escreva: ``httprepl https://localhost:7000`` para rodar o projeto com **REPL**
